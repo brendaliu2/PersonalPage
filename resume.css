@@ -1,0 +1,18 @@
+/* #resume-box {
+    border: 1px black solid;
+    background-color: rgba(245, 217, 213,.4);
+}
+
+body{
+    background-color: navy;
+} */
+
+section {
+    background-color: #e9edc9;
+    margin: 70px 0px 0px 0px;
+    padding: 20px;
+}
+
+img {
+    margin: 10px;
+}
